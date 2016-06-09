@@ -1,0 +1,14 @@
+layout_spectrum: 0.7643224236089736
+typography_spectrum: 0.6884532873518765
+color:
+  brandStrength: 0.8924609378445894
+  lightness: 0.17206089198589325
+  saturation: 0.45317619829438627
+  rhythmicContrast: 0.716436009388417
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: opaque rainbow
